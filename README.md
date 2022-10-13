@@ -17,7 +17,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1030259132818800753/1030259628912681060/Seja-bem-vindo.png?width=985&height=280">
 </div>
 <hr></hr>
-- 📚 Atualmente estudando HTML, CSS e Java Script.
+- 📚 Atualmente estudando HTML, CSS, JS e Python.
 <p></p>
 - 🏢 Estudante na Universidade Paulista (UNIP)
 <hr></hr>
